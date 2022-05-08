@@ -1,4 +1,4 @@
-score 0.77
+score 0.77033
 
 基于sklearn对kaggle竞赛里的经典项目泰坦尼克号上的成员进行生存预测
 
